@@ -25,6 +25,7 @@
     🟢 dynamic features like search, save and post comment.
 
   ## Build Showcase:
+  [![Demo](https://user-images.githubusercontent.com/46050946/180015651-7d895f13-36e3-4d08-adc2-1de411e85756.png)](https://user-images.githubusercontent.com/46050946/180367751-f8800fa9-46bf-404e-af0b-bb9cf109ef81.mp4) 
 
   
   **[⬆ Back to Top](#photo-bucket)**

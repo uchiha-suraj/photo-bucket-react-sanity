@@ -2,6 +2,9 @@
 
 ### see the project [here](https://foto-bucket.netlify.app/).
 
+<a href="https://foto-bucket.netlify.app/" target="_blank">Hello, world!</a>
+
+
 ## Web view:
 
 ![photo-bucket](https://user-images.githubusercontent.com/46050946/180015651-7d895f13-36e3-4d08-adc2-1de411e85756.png)

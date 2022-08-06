@@ -1,9 +1,6 @@
 # PHOTO-BUCKET
 
-### see the project [here](https://foto-bucket.netlify.app/).
-
-<a href="https://foto-bucket.netlify.app/" target="_blank">Hello, world!</a>
-
+### see the project [here](https://foto-bucket.netlify.app/){:target="_blank"}.
 
 ## Web view:
 

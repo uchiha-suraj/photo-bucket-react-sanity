@@ -46,11 +46,11 @@
 
 **Web View**
 
-![Photo Bucket web view](https://user-images.githubusercontent.com/46050946/180015651-7d895f13-36e3-4d08-adc2-1de411e85756.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/46050946/180015651-7d895f13-36e3-4d08-adc2-1de411e85756.png" width="600"/></p>
 
 **Mobile View**
 
-![Photo Bucket mobile view](https://user-images.githubusercontent.com/46050946/180015795-5046f7ef-5f7c-436b-861f-39ac0a5e202f.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/46050946/180015795-5046f7ef-5f7c-436b-861f-39ac0a5e202f.png" width="300"/></p>
 
 ## Demo
 
